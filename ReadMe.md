@@ -3,7 +3,7 @@
 🚀 I’m currently working on penetration testing projects and CTF challenges.<br>🤝 I’m looking to collaborate on cybersecurity research and red teaming activities.<br>🆘 I’m looking for help with advanced exploitation techniques and bypass methods.<br>🌐 I’m currently learning reverse engineering and malware analysis.<br>🛡️ Ask me about anything related to ethical hacking and CTF strategies.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cengizberkaykaya/)<br>
+
 
 
 
