@@ -1,6 +1,14 @@
 ![Mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-🚀 I’m currently working on penetration testing projects and CTF challenges.<br>🤝 I’m looking to collaborate on cybersecurity research and red teaming activities.<br>🆘 I’m looking for help with advanced exploitation techniques and bypass methods.<br>🌐 I’m currently learning reverse engineering and malware analysis.<br>🛡️ Ask me about anything related to ethical hacking and CTF strategies.
+ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ʜᴏᴡʟꜱ ɪɴ ᴛʜᴇ ɴɪɢʜᴛ;
+ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ᴍᴏᴀɴꜱ ɪɴ ᴛʜᴇ ꜱɴᴏᴡ;
+ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ʜᴀᴛʜ ɴᴇᴠᴇʀ ꜱᴇᴇɴ ʟɪɢʜᴛ;
+ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ᴍᴏᴜɴᴛꜱ ꜰʀᴏᴍ ʙᴇʟᴏᴡ.
+
+ᴍʏ ᴄᴀʀ ɪꜱ ᴛʜᴇ ᴄᴀʀ ᴏꜰ ᴅᴇᴀᴛʜ;
+ᴍʏ ᴡɪɴɢꜱ ᴀʀᴇ ᴛʜᴇ ᴡɪɴɢꜱ ᴏꜰ ᴅʀᴇᴀᴅ;
+ᴍʏ ʙʀᴇᴀᴛʜ ɪꜱ ᴛʜᴇ ɴᴏʀᴛʜ ᴡɪɴᴅ’ꜱ ʙʀᴇᴀᴛʜ;
+ᴍʏ ᴘʀᴇʏ ᴀʀᴇ ᴛʜᴇ ᴄᴏʟᴅ ᴀɴᴅ ᴛʜᴇ ᴅᴇᴀᴅ.
 
 
 
