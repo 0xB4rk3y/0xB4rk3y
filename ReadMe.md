@@ -2,7 +2,7 @@
 
 ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ʜᴏᴡʟꜱ ɪɴ ᴛʜᴇ ɴɪɢʜᴛ;  
 ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ᴍᴏᴀɴꜱ ɪɴ ᴛʜᴇ ꜱɴᴏᴡ;  
-ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ʜᴀᴛʜ ɴᴇᴠᴇʀ ꜱᴇᴇɴ ʟɪɢʜᴛ;  
+ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ʜᴀᴛʜ ɴᴇᴠᴇʀ ꜱᴇᴇɴ ʟɪɢʜᴛ;   
 ɪ ᴀᴍ ʜᴇ ᴡʜᴏ ᴍᴏᴜɴᴛꜱ ꜰʀᴏᴍ ʙᴇʟᴏᴡ.  
 
 ᴍʏ ᴄᴀʀ ɪꜱ ᴛʜᴇ ᴄᴀʀ ᴏꜰ ᴅᴇᴀᴛʜ;  
@@ -16,7 +16,7 @@
 
 
 
-![0xb4rk3y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb4rk3y&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![0xb4rk3y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb4rk3y&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)         
 
 
 
