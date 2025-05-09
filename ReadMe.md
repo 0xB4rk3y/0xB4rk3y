@@ -1,4 +1,4 @@
-![Irithyll](https://github.com/0xB4rk3y/0xB4rk3y/blob/main/06a85b703ccc50fcc2214bac56214f48.gif)
+<img src="https://github.com/0xB4rk3y/0xB4rk3y/blob/main/06a85b703ccc50fcc2214bac56214f48.gif" width="1200" height="500" alt="Irithyll">
 
 
 
