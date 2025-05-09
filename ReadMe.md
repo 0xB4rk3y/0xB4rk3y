@@ -2,13 +2,19 @@
 
 
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb4rk3y&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+    </td>
+    <td style="width: 50px;">&nbsp;</td>
+    <td>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Cbk.png" alt="TryHackMe" height="100"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Cbk.png" alt="Tryhackme" />
 
-
-
-
-![0xb4rk3y's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb4rk3y&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)         
 
 
 
