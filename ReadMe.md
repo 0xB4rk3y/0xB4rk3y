@@ -10,7 +10,7 @@
     </td>
     <td style="width: 50px;">&nbsp;</td>
     <td>
-      <img src="https://tryhackme-badges.s3.amazonaws.com/Cbk.png" alt="TryHackMe" height="100"/>
+      <img src="https://tryhackme-badges.s3.amazonaws.com/Virsinecapite.png" alt="TryHackMe" height="100"/>
     </td>
   </tr>
 </table>
