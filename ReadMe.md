@@ -43,7 +43,7 @@ When I’m not diving into security, I also enjoy Software Development. I focus 
 ---
 <img align="right" alt="Irithyll" src="https://raw.githubusercontent.com/0xB4rk3y/0xB4rk3y/main/06a85b703ccc50fcc2214bac56214f48.gif" width="500" height="300"/>
 
- ### 📚 Deep Linux Reads That Go Beyond Tutorials  
+ ### 📚 The Modern Hacker’s Classic Collection 
 
 
 - 🔒 [**The Tangled Web** – Michal Zalewski](https://github.com/akr3ch/BugBountyBooks/blob/main/The%20tangled%20Web_%20a%20guide%20to%20securing%20modern%20Web%20applications%20(%20PDFDrive%20).pdf)  
