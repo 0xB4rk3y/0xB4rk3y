@@ -9,13 +9,6 @@
 
 ---
 
-### 🧠 About Me
-
-I'm a **Cybersecurity Enthusiast** passionate about understanding how systems work and break. I spend most of my time exploring security vulnerabilities, learning new tools and techniques to strengthen my skills. My goal is not just to protect systems but to deeply understand them and make them better through continuous learning.
-
-I believe in the power of self-education, and that's why I dedicate a lot of time to reading. Whether it's about security, software development, or even broader technology topics, books are a key part of my journey. They help me stay ahead of the curve and deepen my understanding of complex concepts.
-
-When I’m not diving into security, I also enjoy Software Development. I focus on writing clean, efficient, and secure code that solves real-world problems. Balancing both security and development, I strive to create systems that are both functional and safe.
 
 > _"Mechanisms, not policies"_
 
@@ -23,12 +16,15 @@ When I’m not diving into security, I also enjoy Software Development. I focus 
 
 ### 🛠️ Tech Stack & Focus Areas
 
-| Domain                  | Tools & Topics                                                                 |
-|-------------------------|--------------------------------------------------------------------------------|
-| **Languages**           | C, Python, Bash, Rust                                                          |
-| **Security & Research** | Static Analysis, Fuzzing, Linux Hardening, CTF Challenges, Security Auditing, Vulnerability Assessment                          |
-| **System Internals**    | Linux Boot Process, Kernel Logs, Boot Time Analysis, System Performance Profiling       |
-| **Tools**               | GDB, strace/ltrace, objdump, readelf, nm, systemd utilities, QEMU, Valgrind, checksec                           |
+| Domain                    | Tools & Topics                                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Languages**             | Rust, Python, Bash                                                                    |
+| **Offensive Engineering** | Custom Payload Development, Shellcode Crafting, Reflective Loading, Inline Hooking, Syscall Proxying       |
+| **Security Research**     | Binary Exploitation, Fuzzing, Static/Dynamic Analysis, Exploit Mitigation Bypass        |
+| **System Internals**      | Linux Kernel Interfaces, Memory Management, Process Injection Techniques                         |
+| **Post-Exploitation**     | Credential Access , Custom C2 Comms, Token Manipulation, OPSEC-Safe Persistence |
+| **Red Team Ops**          | Beacon Implant Design, Traffic Shaping, C2 Infrastructure Design, Operation Security Principles            |
+
 
 ---
 
