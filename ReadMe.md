@@ -14,19 +14,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Focus Areas
-
-| Domain                    | Tools & Topics                                                                                             |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Languages**             | Rust, Python, Bash                                                                    |
-| **Offensive Engineering** | Custom Payload Development, Shellcode Crafting, Reflective Loading, Inline Hooking, Syscall Proxying       |
-| **Security Research**     | Binary Exploitation, Fuzzing, Static/Dynamic Analysis, Exploit Mitigation Bypass        |
-| **System Internals**      | Linux Kernel Interfaces, Memory Management, Process Injection Techniques                         |
-| **Post-Exploitation**     | Credential Access , Custom C2 Comms, Token Manipulation, OPSEC-Safe Persistence |
-| **Red Team Ops**          | Beacon Implant Design, Traffic Shaping, C2 Infrastructure Design, Operation Security Principles            |
-
-
----
 
 ### 🧪 Projects
 
